@@ -23,3 +23,7 @@ Posteriormente se debe ejecutar el comando `npm run dev` para iniciar la aplicac
 En la primera vista, podemos añadir un presupuesto, con el que Posteriormente iremos trabajando
 una vez introducido el presupuesto válido, nos muestra una vista en la que podremos ir añadiendo gastos
 que se irán actualizando en sus respectivos componentes
+
+
+
+<img width="1188" alt="Captura de pantalla 2023-01-17 a las 8 42 20" src="https://user-images.githubusercontent.com/52428440/212838232-b3642b9a-c34a-4c3a-8c6c-ea887f53a971.png">
